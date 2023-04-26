@@ -29,5 +29,5 @@ $ git clone https://github.com/username/project.git
 Simply open the website and start calculating
 
 ## Screenshots of the page
-<img src="sscal.png" width="65%">
+<img href="sscal.png" width="65%">
 
