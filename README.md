@@ -4,12 +4,12 @@ This is a website that has been designed and developed using HTML, CSS, and Java
 
 The design of the calculator interface has been created using CSS, which makes it visually appealing and user-friendly. The calculator functionality has been implemented using JavaScript, which ensures that the calculations are accurate and reliable. Overall, this website provides a useful tool for anyone who needs to perform simple calculations quickly and easily.
 
-##Table of Contents
+## Table of Contents
 * Instalation
 * Usage
 * Screenshot of page
 
-### Installation
+## Installation
 
 in order to open the project:
 
@@ -19,15 +19,15 @@ in order to open the project:
 4. Navigate to the directory where you want to store the cloned repository using the cd command.
 5. Once you're in the directory, use the git clone command followed by the copied URL to clone the repository.
 
-For example
+### For example
 ```shell
 $ cd /path/to/directory/
 $ git clone https://github.com/username/project.git
 ```
-###Usage
+## Usage
 
 Simply open the website and start calculating
 
-###Screenshots of the page
+## Screenshots of the page
 <img src="sscal.png" width="65%">
 
