@@ -24,6 +24,8 @@ in order to open the project:
 $ cd /path/to/directory/
 $ git clone https://github.com/username/project.git
 ```
+Or simply click on the available URL!
+
 ## Usage
 
 Simply open the website and start calculating
